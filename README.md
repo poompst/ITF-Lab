@@ -1,3 +1,3 @@
 # ITF-Lab 2018
 ## Author
-พงศธร เลียงเเก้วประทุม 61070123
+Pongsathorn Liengkaewpratum 61070123
